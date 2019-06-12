@@ -1,4 +1,4 @@
-{
+[{
   "name": "DCAT-AP-VL",
   "type": "ap",
   "eap": "OSLO-DCATAPVL-AP.eap",
@@ -14,4 +14,4 @@
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-dcat-ap-vl/applicatieprofiel-dcat-ap-vl.html",
   "dependencies": [
       ]
-}
+}]
