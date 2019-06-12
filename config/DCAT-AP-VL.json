@@ -6,7 +6,7 @@
   "template": "dcatapvl-ap.j2",
   "title": "DCAT-AP Vlaanderen",
   "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-  "publication-date": "28-12-2018",
+  "publication-date": "21-12-2018",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "DCATAPVL",
   "site": "site-skeleton",
