@@ -1,0 +1,17 @@
+{
+  "name": "DCAT-AP-VL",
+  "type": "ap",
+  "eap": "OSLO-DCATAPVL-AP.eap",
+  "diagram": "OSLO-DCATAPVL",
+  "template": "dcatapvl-ap.j2",
+  "title": "DCAT-AP Vlaanderen",
+  "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+  "publication-date": "28-12-2018",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "DCATAPVL",
+  "site": "site-skeleton",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues?q=is%3Aopen+is%3Aissue+label%3AThema%2FDCAT-AP-VL",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-dcat-ap-vl/applicatieprofiel-dcat-ap-vl.html",
+  "dependencies": [
+      ]
+}
