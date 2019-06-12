@@ -5,7 +5,7 @@
   "diagram": "OSLO-DCATAPVL",
   "template": "dcatapvl-ap.j2",
   "title": "DCAT-AP Vlaanderen",
-  "publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/Kandidaat-standaard",
+  "publication-state": "https://data.vlaanderen.be/doc/concept/StandaardStatus/Standaard",
   "publication-date": "20-01-2019",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "DCATAPVL",
