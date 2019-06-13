@@ -7,7 +7,7 @@
   "title": "DCAT-AP Vlaanderen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
   "publication-date": "13-06-2019",
-  "license" : "https://data.vlaanderen.be/id/licentie/creative-commons-zero-verklaring/v1.0",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "DCATAPVL",
   "site": "site-skeleton",
